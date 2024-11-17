@@ -1,1 +1,1 @@
-credits: https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification
+credits: https://www.kaggle.com/datasets/maciejgronczynski/vehicle-classification-dataset
